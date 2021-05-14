@@ -40,7 +40,7 @@ header#header .header_nav {
 }
 header#header .header_nav li.header_instagram img,
 header#header .header_nav li.header_phone img{
-    width: 30px;
+    width: 54px;
 }
 header#header .header_nav li.header_logo {
     max-width: 50%;
@@ -70,7 +70,7 @@ header#header .header_nav li.header_logo img {
     text-decoration: none;
     color: #000;
     display: block;
-    margin-bottom: 20px;
+    margin-bottom: 60px;
 }
 p.film_date {
     padding: 10px;
@@ -79,8 +79,9 @@ p.film_date {
     font-size: 16px;
 }
 p.film_date span{
-    font-size: 30px;
+    font-size: 60px;
     font-family: "GalleryModern" !important; 
+
 }
 .film_desc {
     padding: 10px;
@@ -89,18 +90,22 @@ p.film_date span{
     justify-content: space-between;
 }
 .film_title {
-    font-size: 22px;
+    font-size: 48px;
     text-transform: uppercase;
-    line-height: 1.2em;
+    font-style: normal;
+letter-spacing: normal;
+line-height: normal;
 }
 .film_title span {
-    font-size: 14px;
+    font-size: 24px;
     display: block;
 }
 .film_time {
-    font-size: 22px;
+    font-size: 60px;
     padding-left: 10px;
     box-sizing: border-box;
+    font-family: "GalleryModern" !important; 
+    font-weight: 400;
 }
 footer#footer {
     padding: 30px 0 20px;
